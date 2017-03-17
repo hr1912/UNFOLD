@@ -1,4 +1,4 @@
-#! /PROJ/SD/share/software/ActivePerl-5.16/bin/perl
+#! /usr/bin/env perl
 use warnings;
 use strict;
 use DBI;
